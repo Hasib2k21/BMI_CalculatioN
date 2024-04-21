@@ -17,4 +17,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![Alt text](Screenshot_20240421_220858.jpg "Optional title")
+![Alt text](Screenshot_20240421_220858.jpg "calculate BMI")
+![Alt text](Screenshot_20240421_220903.jpg "calculate BMI")
